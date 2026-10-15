@@ -1,8 +1,8 @@
 import './styles.css';
 
 export const metadata = {
-  title: 'Fairway Desk | Golf club enquiry CRM prototype',
-  description: 'A synthetic, local-only membership enquiry workflow prototype.'
+  title: 'Enquiry Desk | Customer enquiry CRM prototype',
+  description: 'A synthetic, local-only customer enquiry and follow-up workflow prototype.'
 };
 
 export default function RootLayout({ children }) {
