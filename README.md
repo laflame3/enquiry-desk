@@ -34,6 +34,8 @@ See [data flow](docs/data-flow.md) for the current model and a real pilot's open
 
 [Watch the 90-second annotated walkthrough](docs/walkthrough.mp4). It is assembled from screenshots captured while exercising the local UI; it is not a continuous screen recording. [Overview screenshot](docs/screenshots/01-overview.jpg) and [follow-up activity screenshot](docs/screenshots/06-follow-up.jpg) are also available.
 
+The video is included in the repository. Its optional source script, `docs/make_walkthrough.py`, needs Pillow and FFmpeg to regenerate the MP4 from the captured screenshots.
+
 1. Open the overview and inspect the synthetic overdue enquiries.
 2. Select Maya Patel, assign a follow-up date and change the stage to `Contacted`.
 3. Record a follow-up; the activity history shows the action.
