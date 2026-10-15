@@ -1,0 +1,7 @@
+node_modules
+.next/
+.data/
+.DS_Store
+docs/walkthrough-frames/
+docs/walkthrough-frames.txt
+docs/walkthrough-preview.jpg
